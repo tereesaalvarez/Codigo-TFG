@@ -13,6 +13,7 @@ Ambos enfoques han sido aplicados sobre las mismas series temporales relacionada
 ##  Estructura del repositorio
 
 CODIGO-TFG/
+```
 │
 ├── RNN/
 │ ├── final/ # Datos finales utilizados para entrenar el modelo RNN
@@ -37,7 +38,7 @@ CODIGO-TFG/
 │ │ ├── PIB.csv
 │ │ └── tasa_ahorro.csv
 │ └── SARIMAX_TFG.ipynb # Notebook principal con el desarrollo del modelo SARIMAX
-
+```
 ---
 
 ##  Modelado y notebooks
@@ -86,5 +87,7 @@ Este código forma parte de un proyecto académico (TFG) y se distribuye con fin
 ##  Contacto
 
 Autora: Teresa Álvarez de Portugal 
+
 Universidad Alfonso X el Sabio – Grado en Ingeniería Matemática  
+
 Trabajo de Fin de Grado – Curso 2024/2025
